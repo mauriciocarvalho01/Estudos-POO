@@ -1,0 +1,13 @@
+C:\Users\Mauricio\source\repos\19_04\19_04\bin\Debug\netcoreapp3.1\19_04.exe
+C:\Users\Mauricio\source\repos\19_04\19_04\bin\Debug\netcoreapp3.1\19_04.deps.json
+C:\Users\Mauricio\source\repos\19_04\19_04\bin\Debug\netcoreapp3.1\19_04.runtimeconfig.json
+C:\Users\Mauricio\source\repos\19_04\19_04\bin\Debug\netcoreapp3.1\19_04.runtimeconfig.dev.json
+C:\Users\Mauricio\source\repos\19_04\19_04\bin\Debug\netcoreapp3.1\19_04.dll
+C:\Users\Mauricio\source\repos\19_04\19_04\bin\Debug\netcoreapp3.1\19_04.pdb
+C:\Users\Mauricio\source\repos\19_04\19_04\obj\Debug\netcoreapp3.1\19_04.csprojAssemblyReference.cache
+C:\Users\Mauricio\source\repos\19_04\19_04\obj\Debug\netcoreapp3.1\19_04.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\19_04\19_04\obj\Debug\netcoreapp3.1\19_04.AssemblyInfoInputs.cache
+C:\Users\Mauricio\source\repos\19_04\19_04\obj\Debug\netcoreapp3.1\19_04.AssemblyInfo.cs
+C:\Users\Mauricio\source\repos\19_04\19_04\obj\Debug\netcoreapp3.1\19_04.dll
+C:\Users\Mauricio\source\repos\19_04\19_04\obj\Debug\netcoreapp3.1\19_04.pdb
+C:\Users\Mauricio\source\repos\19_04\19_04\obj\Debug\netcoreapp3.1\19_04.genruntimeconfig.cache

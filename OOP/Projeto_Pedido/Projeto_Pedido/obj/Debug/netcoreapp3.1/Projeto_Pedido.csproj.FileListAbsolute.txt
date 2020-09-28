@@ -1,0 +1,13 @@
+C:\Users\Mauricio\source\repos\Projeto_Pedido\Projeto_Pedido\bin\Debug\netcoreapp3.1\Projeto_Pedido.exe
+C:\Users\Mauricio\source\repos\Projeto_Pedido\Projeto_Pedido\bin\Debug\netcoreapp3.1\Projeto_Pedido.deps.json
+C:\Users\Mauricio\source\repos\Projeto_Pedido\Projeto_Pedido\bin\Debug\netcoreapp3.1\Projeto_Pedido.runtimeconfig.json
+C:\Users\Mauricio\source\repos\Projeto_Pedido\Projeto_Pedido\bin\Debug\netcoreapp3.1\Projeto_Pedido.runtimeconfig.dev.json
+C:\Users\Mauricio\source\repos\Projeto_Pedido\Projeto_Pedido\bin\Debug\netcoreapp3.1\Projeto_Pedido.dll
+C:\Users\Mauricio\source\repos\Projeto_Pedido\Projeto_Pedido\bin\Debug\netcoreapp3.1\Projeto_Pedido.pdb
+C:\Users\Mauricio\source\repos\Projeto_Pedido\Projeto_Pedido\obj\Debug\netcoreapp3.1\Projeto_Pedido.csprojAssemblyReference.cache
+C:\Users\Mauricio\source\repos\Projeto_Pedido\Projeto_Pedido\obj\Debug\netcoreapp3.1\Projeto_Pedido.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\Projeto_Pedido\Projeto_Pedido\obj\Debug\netcoreapp3.1\Projeto_Pedido.AssemblyInfoInputs.cache
+C:\Users\Mauricio\source\repos\Projeto_Pedido\Projeto_Pedido\obj\Debug\netcoreapp3.1\Projeto_Pedido.AssemblyInfo.cs
+C:\Users\Mauricio\source\repos\Projeto_Pedido\Projeto_Pedido\obj\Debug\netcoreapp3.1\Projeto_Pedido.dll
+C:\Users\Mauricio\source\repos\Projeto_Pedido\Projeto_Pedido\obj\Debug\netcoreapp3.1\Projeto_Pedido.pdb
+C:\Users\Mauricio\source\repos\Projeto_Pedido\Projeto_Pedido\obj\Debug\netcoreapp3.1\Projeto_Pedido.genruntimeconfig.cache

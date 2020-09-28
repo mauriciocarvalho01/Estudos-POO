@@ -1,0 +1,13 @@
+C:\Users\Mauricio\source\repos\ContaCorrente\ContaCorrente\bin\Debug\netcoreapp3.1\ContaCorrente.exe
+C:\Users\Mauricio\source\repos\ContaCorrente\ContaCorrente\bin\Debug\netcoreapp3.1\ContaCorrente.deps.json
+C:\Users\Mauricio\source\repos\ContaCorrente\ContaCorrente\bin\Debug\netcoreapp3.1\ContaCorrente.runtimeconfig.json
+C:\Users\Mauricio\source\repos\ContaCorrente\ContaCorrente\bin\Debug\netcoreapp3.1\ContaCorrente.runtimeconfig.dev.json
+C:\Users\Mauricio\source\repos\ContaCorrente\ContaCorrente\bin\Debug\netcoreapp3.1\ContaCorrente.dll
+C:\Users\Mauricio\source\repos\ContaCorrente\ContaCorrente\bin\Debug\netcoreapp3.1\ContaCorrente.pdb
+C:\Users\Mauricio\source\repos\ContaCorrente\ContaCorrente\obj\Debug\netcoreapp3.1\ContaCorrente.csprojAssemblyReference.cache
+C:\Users\Mauricio\source\repos\ContaCorrente\ContaCorrente\obj\Debug\netcoreapp3.1\ContaCorrente.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\ContaCorrente\ContaCorrente\obj\Debug\netcoreapp3.1\ContaCorrente.AssemblyInfoInputs.cache
+C:\Users\Mauricio\source\repos\ContaCorrente\ContaCorrente\obj\Debug\netcoreapp3.1\ContaCorrente.AssemblyInfo.cs
+C:\Users\Mauricio\source\repos\ContaCorrente\ContaCorrente\obj\Debug\netcoreapp3.1\ContaCorrente.dll
+C:\Users\Mauricio\source\repos\ContaCorrente\ContaCorrente\obj\Debug\netcoreapp3.1\ContaCorrente.pdb
+C:\Users\Mauricio\source\repos\ContaCorrente\ContaCorrente\obj\Debug\netcoreapp3.1\ContaCorrente.genruntimeconfig.cache
